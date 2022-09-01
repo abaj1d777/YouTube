@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.*" />
+          <option value="omborhona.userapp.views.Logout" />
+          <option value="Blog.asosiy.models.User" />
+          <option value="Blog.asosiy.views.Logout" />
+          <option value="Blog.asosiy.views.request" />
+          <option value="netflix.asosiy.views.filters" />
+          <option value="exem.app1.models.*" />
+          <option value="market.sotuvapp.models.models" />
+          <option value="market.sotuvapp.views.Accaunt" />
+          <option value="instagram.userapp.models.User" />
+          <option value="instagram.asosiy.serializers.User" />
+          <option value="instagram.asosiy.views.filters" />
+          <option value="instagram.asosiy.views.Profil" />
+          <option value="instagram.asosiy.views.ProfilSer" />
+          <option value="instagram.asosiy.views.User" />
+          <option value="instagram.asosiy.views.Connection" />
+          <option value="instagram.asosiy.views.ConnectionSer" />
+          <option value="instagram.asosiy.views.ConnectionSerializers" />
+          <option value="instagram.asosiy.views.PostSer" />
+          <option value="instagram.asosiy.views.MediaSer" />
+          <option value="instagram.asosiy.views.Profile" />
+          <option value="instagram.asosiy.serializers.Profil" />
+          <option value="instagram.asosiy.serializers.Connection" />
+          <option value="instagram.userapp.views.UserSer" />
+          <option value="instagram.userapp.views.ProfilSer" />
+          <option value="instagram.userapp.views.Profil" />
+          <option value="instagram.userapp.views.ConnectionSer" />
+          <option value="instagram.userapp.views.Connection" />
+          <option value="advace.asosiy.views.View" />
+          <option value="advace.advace.urls.AsosiyView" />
+          <option value="advace.advace.urls.i18n_patterns" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
